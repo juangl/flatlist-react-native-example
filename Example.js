@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { FlatList, Text, View, StyleSheet } from 'react-native';
+import { FlatList, Text, View } from 'react-native';
 import { Container, Content, List, ListItem } from 'native-base';
 
 const alphabet = [
