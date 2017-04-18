@@ -115,13 +115,4 @@ class Example extends Component {
   }
 }
 
-const styles = StyleSheet.create({
-  container: {
-    paddingTop: 20,
-  },
-  title: {
-    fontWeight: 'bold',
-  },
-});
-
 export default Example;
